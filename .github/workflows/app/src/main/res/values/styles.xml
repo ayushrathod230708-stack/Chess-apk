@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/apk/res/android">
+    <style name="Theme.PersonalChessCoach" parent="android:style/Theme.Material.Light.NoActionBar" />
+    </resources>
+    
